@@ -1,4 +1,4 @@
-requests
-httpagentparser
+pip install requests
+pip install httpagentparser
 
-thzxeu
+pip install thzxeu
